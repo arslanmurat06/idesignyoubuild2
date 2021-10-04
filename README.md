@@ -10,4 +10,4 @@ UI placed in [Figma UI](https://www.figma.com/file/nJMqfSZI2HZGjWHWV4jCnG/UNX-Sl
  
  Deployed by vercel.
  
- To see the sample --> [Go]()
+ To see the sample --> [Go](https://idesignyoubuild2.vercel.app/)
